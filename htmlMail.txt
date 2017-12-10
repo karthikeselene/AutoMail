@@ -1,0 +1,78 @@
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Karthikeyan Rajendran - Intro</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body style="margin: 0; padding: 0;"><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#f0f0f0">
+<tr><td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="border-collapse: collapse;">
+<tr><td bgcolor="#70bbd9" style="border-radius: 25px;padding: 20px;width: 500px;height: 50px;">
+<font align="center" color="#ffffff" face="verdana" size="3"><h1>Karthikeyan Rajendran
+<br>
+<font size="2">(Test Automation Engineer)</font>
+</h1>
+</font></td></tr>
+<tr><td bgcolor="#ffffff" style="border-radius: 25px;padding: 20px;width: 500px;height: 50px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+<tr><td>
+<font align="right" face="verdana" size="3">
+<p>
+Karthikeyan Rajendran
+<br>
+42A, Balammal Nagar Main Road
+<br>
+Ullagaram, Chennai - 600091
+<br>
+Tamil Nadu, India.
+</p>
+</font>
+<font align="left" face="verdana" size="3">
+<p>To,
+<br>
+Contact Person
+<br>
+Address.
+</p>
+</font>
+</td></tr>
+<tr><td>
+<font face="verdana" size="3">
+9th December 2017
+</font>
+<br>
+<font face="verdana" size="3">
+<b>Sub: </b>
+</font>
+<br>
+<br>
+<font face="verdana" size="3">
+Attachment:
+</font>
+<br>
+<br>
+<font face="verdana" size="3">
+Dear,
+</font>
+<br>
+<font face="verdana" size="3">
+<p>I am writing in regards to the position of marketing manager at XYZ Enterprises advertised on Monster.com.</p>
+<p>I have attached my resume and cover letter for your consideration.</p>
+<p>Thank you.</p>
+</font>
+<br>
+<font face="verdana" size="3">
+Best Regards,
+<br>
+Karthikeyan Rajendran
+</td></tr></table></td></tr>
+<tr style="border-radius: 100px;padding: 20px;width: 100px;height: 30px;">
+<td bgcolor="#ee4c50" style="border-radius: 25px;padding: 20px;width: 500px;height: 50px;">
+<font color="#ffffff" face="verdana" size="2">
+Linkedin: https://www.linkedin.com/in/karthikeyan-rajendran-a5426a135/
+<br>
+Facebook: https://www.facebook.com/profile.php?id=100001244534195
+<br>
+Whatsapp: +919488837260
+<br>
+</font></td></tr></table></td></tr></table></body></html>
